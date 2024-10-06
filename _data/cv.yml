@@ -4,7 +4,7 @@
     - name: Full Name
       value: Sangwook Nam
     - name: Website
-      value: https://snam24.github.io/
+      value: https://sangwook-nam.com/
     - name: Email
       value: sangwook.nam@kellogg.northwestern.edu
     - name: Office Address
@@ -37,7 +37,7 @@
     - title: Effects of Disclosure Mandates
     - title: Spillover Effects of Disclosure
 
-- title: Job Market Paper
+- title: Job Market Paper # Working Paper
   type: time_table
   contents:
     - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocations?
@@ -45,15 +45,15 @@
         # - Job Market Paper
         - "Presentations: Kellogg Accounting Seminar Series, WashU Accounting Research Conference (poster session), Boston Accounting Student Symposium, Hawaii Accounting Research Conference (scheduled), Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled), The Japanese Accounting Review Conference (scheduled)"
 
-- title: Work-in-Progress
-  type: nested_list
-  contents:
-    - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
-      description:
-        - "co-author: Yongseok Kim"
-    - title: Supply Chain and Alternative Data
-      description:
-        - "co-author: Shera Gong"
+# - title: Work-in-Progress
+#   type: nested_list
+#   contents:
+#     - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
+#       description:
+#         - "co-author: Yongseok Kim"
+#     - title: Supply Chain and Alternative Data
+#       description:
+#         - "co-author: Shera Gong"
 
 # - title: Research Conferences
 #   type: time_table

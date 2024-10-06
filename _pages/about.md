@@ -22,7 +22,7 @@ Welcome! I'm a PhD Candidate in Accounting Information and Management at Kellogg
 
 My research interests lie at the intersection of spillover effects of disclosure and investment decisions in the supply-chain setting.
 
-Prior to Kellogg School of Management, I obtained my Bachelor’s degrees in Business Administration, Economics, and Statistics from Seoul National University, graduating *Summa Cum Laude*.
+Prior to Kellogg School of Management, I obtained my Bachelor’s degrees in Business Administration, Economics, and Statistics from Seoul National University, graduating Summa Cum Laude.
 
 Outside of academia, I enjoy running and have experience horseback riding in Chicago, Seoul, and Mongolia. I also live with Chronic Recurrent Multifocal Osteomyelitis (CRMO), an extremely rare condition affecting 1 in a million people.
 
