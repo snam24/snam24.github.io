@@ -15,8 +15,8 @@
       institution: Kellogg School of Management, Northwestern University
       year: 2025 (expected)
       description:
-        - Thesis Proposal: Do Customer Disclosures Affect Suppliers' Internal Capital Allocation Decisions?
-        - Committee: Sugata Roychowdhury (Chair), Ronald Dye, Jung Min Kim, Mihir Mehta
+        - "Thesis Proposal: Do Customer Disclosures Affect Suppliers' Internal Capital Allocation Decisions?"
+        - "Committee: Sugata Roychowdhury (Chair), Ronald Dye, Jung Min Kim, Mihir Mehta"
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -31,6 +31,13 @@
       year: 2017
       description:
         - Summa Cum Laude
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Supply Chain
+    - title: Effects of Disclosure Mandates
+    - title: Spillover Effects of Disclosure
 
 - title: Experience
   type: time_table
@@ -83,17 +90,17 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
