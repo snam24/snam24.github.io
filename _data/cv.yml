@@ -45,13 +45,15 @@
         - Job Market Paper
         - "Presentations: Kellogg Accounting Seminar Series, WashU Accounting Research Conference (poster session), Boston Accounting Student Symposium, Hawaii Accounting Research Conference (scheduled), Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled), The Japanese Accounting Review Conference (scheduled)"
 
-# - title: Work-in-Progress
-#   type: nested_list
-#   contents:
-#     - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
-#       co-author: Yongseok Kim
-#     - title: Supply Chain and Alternative Data
-#       co-author: Shera Gong
+- title: Work-in-Progress
+  type: nested_list
+  contents:
+    - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
+      description:
+        - "co-author: Yongseok Kim"
+    - title: Supply Chain and Alternative Data
+      description:
+        - "co-author: Shera Gong"
 
 # - title: Research Conferences
 #   type: time_table
