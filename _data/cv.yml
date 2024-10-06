@@ -59,7 +59,7 @@
 #     - year: 2024
 #       items:
 #         - Boston Accounting Students Symposium (Presenter)
-#         - Washington University in St. Louis Annual Accounting Research Conference in Memory of Nicholas Dopuch (Presenter)
+#         - Washington University in St. Louis Annual Accounting Research Conference (Poster Presenter)
 #         - AAA Annual Meeting
 #         - Kellogg Accounting Conference
 #     - year: 2023
@@ -89,7 +89,7 @@
 #       institution: Seoul National University
 #       year: 2017
 #       description:
-#         - "Fall 2017: Operations Management (Instructor: Michael K. Lim)"
+#         - "Fall 2017: Operations Management, Undergraduate (Instructor: Michael K. Lim)"
 
 # - title: Service to the Profession
 #   type: time_table
