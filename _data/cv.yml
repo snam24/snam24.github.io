@@ -19,7 +19,7 @@
       description:
         - "Thesis Proposal: Do Customer Disclosures Affect Suppliers' Internal Capital Allocation Decisions?"
         - "Committee: Sugata Roychowdhury (Chair), Ronald Dye, Jung Min Kim, Mihir Mehta"
-    - title: MS in Managerial Economics and Strategy
+    - title: MS in Managerial Economics & Strategy
       institution: Kellogg School of Management, Northwestern University
       year: 2019
       description:
@@ -42,39 +42,38 @@
   contents:
     - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocations?
       description:
-        # - Job Market Paper
         - "Presentations: Kellogg Accounting Seminar Series, WashU Accounting Research Conference (poster session), Boston Accounting Student Symposium, Hawaii Accounting Research Conference (scheduled), Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled), The Japanese Accounting Review Conference (scheduled)"
 
-# - title: Work-in-Progress
-#   type: nested_list
-#   contents:
-#     - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
-#       description:
-#         - "co-author: Yongseok Kim"
-#     - title: Supply Chain and Alternative Data
-#       description:
-#         - "co-author: Shera Gong"
+- title: Work-in-Progress
+  type: nested_list
+  contents:
+    - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
+      description:
+        - "co-author: Yongseok Kim"
+    - title: Supply Chain and Alternative Data
+      description:
+        - "co-author: Shera Gong"
 
-# - title: Research Conferences
-#   type: time_table
-#   contents:
-#     - year: 2024
-#       items:
-#         - Boston Accounting Students Symposium (Presenter)
-#         - Washington University in St. Louis Annual Accounting Research Conference (Poster Presenter)
-#         - AAA Annual Meeting
-#         - Kellogg Accounting Conference
-#     - year: 2023
-#       items:
-#         - Kellogg Accounting Conference
-#     - year: 2021
-#       items:
-#         - AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium (Presenter)
-#         - AAA Annual Meeting
-#         - McGill Accounting Research Conference
-#         - Government and Nonprofit Section Midyear Meeting
-#         - FARS Doctoral Consortium
-#         - Accounting and Economics Society Summer School
+- title: Research Conferences
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Boston Accounting Students Symposium (Presenter)
+        - Washington University in St. Louis Annual Accounting Research Conference (Poster Presenter)
+        - AAA Annual Meeting
+        - Kellogg Accounting Conference
+    - year: 2023
+      items:
+        - Kellogg Accounting Conference
+    - year: 2021
+      items:
+        - AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium (Presenter)
+        - AAA Annual Meeting
+        - McGill Accounting Research Conference
+        - Government and Nonprofit Section Midyear Meeting
+        - FARS Doctoral Consortium
+        - Accounting and Economics Society Summer School
 
 # - title: Teaching Experience
 #   type: time_table
