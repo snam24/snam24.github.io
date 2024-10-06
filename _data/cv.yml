@@ -37,135 +37,135 @@
     - title: Effects of Disclosure Mandates
     - title: Spillover Effects of Disclosure
 
-- title: Working Paper
-  type: time_table
-  contents:
-    - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocations?
-      description: Job Market Paper
-      presentations:
-        - Kellogg Accounting Seminar Series
-        - WashU Accounting Research Conference (poster session)
-        - Boston Accounting Student Symposium
-        - Hawaii Accounting Research Conference (scheduled)
-        - Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled)
-        - The Japanese Accounting Review Conference (scheduled)
+# - title: Working Paper
+#   type: time_table
+#   contents:
+#     - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocations?
+#       description: Job Market Paper
+#       presentations:
+#         - Kellogg Accounting Seminar Series
+#         - WashU Accounting Research Conference (poster session)
+#         - Boston Accounting Student Symposium
+#         - Hawaii Accounting Research Conference (scheduled)
+#         - Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled)
+#         - The Japanese Accounting Review Conference (scheduled)
 
-- title: Work-in-Progress
-  type: nested_list
-  contents:
-    - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
-      co-author: Yongseok Kim
-    - title: Supply Chain and Alternative Data
-      co-author: Shera Gong
+# - title: Work-in-Progress
+#   type: nested_list
+#   contents:
+#     - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
+#       co-author: Yongseok Kim
+#     - title: Supply Chain and Alternative Data
+#       co-author: Shera Gong
 
-- title: Research Conferences
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - Boston Accounting Students Symposium (Presenter)
-        - Washington University in St. Louis Annual Accounting Research Conference in Memory of Nicholas Dopuch (Presenter)
-        - AAA Annual Meeting
-        - Kellogg Accounting Conference
-    - year: 2023
-      items:
-        - Kellogg Accounting Conference
-    - year: 2021
-      items:
-        - AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium (Presenter)
-        - AAA Annual Meeting
-        - McGill Accounting Research Conference
-        - Government and Nonprofit Section Midyear Meeting
-        - FARS Doctoral Consortium
-        - Accounting and Economics Society Summer School
+# - title: Research Conferences
+#   type: time_table
+#   contents:
+#     - year: 2024
+#       items:
+#         - Boston Accounting Students Symposium (Presenter)
+#         - Washington University in St. Louis Annual Accounting Research Conference in Memory of Nicholas Dopuch (Presenter)
+#         - AAA Annual Meeting
+#         - Kellogg Accounting Conference
+#     - year: 2023
+#       items:
+#         - Kellogg Accounting Conference
+#     - year: 2021
+#       items:
+#         - AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium (Presenter)
+#         - AAA Annual Meeting
+#         - McGill Accounting Research Conference
+#         - Government and Nonprofit Section Midyear Meeting
+#         - FARS Doctoral Consortium
+#         - Accounting and Economics Society Summer School
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: Northwestern University
-      year: 2020 -- 2021
-      description:
-        - "Fall 2021: Managerial Accounting, EMBA (Instructor: Sugata Roychowdhury)"
-        - "Summer 2021: Financial Reporting, MBA (Instructor: Georg Rickmann) – TA Rating: 5.54/6.00"
-        - "Fall 2020: Financial Reporting, MBA (Instructor: Sri Sridharan)"
-        - "Summer 2020: Financial Reporting, MBA (Instructor: Sri Sridharan)"
-    - title: Teaching Assistant
-      institution: Seoul National University
-      year: 2017
-      description:
-        - "Fall 2017: Operations Management (Instructor: Michael K. Lim)"
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistant
+#       institution: Northwestern University
+#       year: 2020 -- 2021
+#       description:
+#         - "Fall 2021: Managerial Accounting, EMBA (Instructor: Sugata Roychowdhury)"
+#         - "Summer 2021: Financial Reporting, MBA (Instructor: Georg Rickmann) – TA Rating: 5.54/6.00"
+#         - "Fall 2020: Financial Reporting, MBA (Instructor: Sri Sridharan)"
+#         - "Summer 2020: Financial Reporting, MBA (Instructor: Sri Sridharan)"
+#     - title: Teaching Assistant
+#       institution: Seoul National University
+#       year: 2017
+#       description:
+#         - "Fall 2017: Operations Management (Instructor: Michael K. Lim)"
 
-- title: Service to the Profession
-  type: time_table
-  contents:
-    - title: Ad Hoc Referee
-      events:
-        - Hawaii Accounting Research Conference 2024
-        - Hawaii Accounting Research Conference 2023
-        - AAA Annual Meeting 2022
-        - Financial Accounting and Reporting Section Midyear Meeting 2020
+# - title: Service to the Profession
+#   type: time_table
+#   contents:
+#     - title: Ad Hoc Referee
+#       events:
+#         - Hawaii Accounting Research Conference 2024
+#         - Hawaii Accounting Research Conference 2023
+#         - AAA Annual Meeting 2022
+#         - Financial Accounting and Reporting Section Midyear Meeting 2020
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2018 -- 2024
-      items:
-        - Kellogg School of Management Fellowship
-    - year: 2019
-      items:
-        - Seoul National University Alumni Association in Chicago Scholarship
-    - year: 2015
-      items:
-        - Korea Life Insurance Association Scholarship
-        - Seoul National University Merit-based Scholarship
-        - National Need-based Scholarship
-        - North Hamgyong Province Scholarship for Students with North Korean Heritage
-    - year: 2010
-      items:
-        - Kwanak Corporation Scholarship
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2018 -- 2024
+#       items:
+#         - Kellogg School of Management Fellowship
+#     - year: 2019
+#       items:
+#         - Seoul National University Alumni Association in Chicago Scholarship
+#     - year: 2015
+#       items:
+#         - Korea Life Insurance Association Scholarship
+#         - Seoul National University Merit-based Scholarship
+#         - National Need-based Scholarship
+#         - North Hamgyong Province Scholarship for Students with North Korean Heritage
+#     - year: 2010
+#       items:
+#         - Kwanak Corporation Scholarship
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Summer Intern
-      institution: DGB Life Insurance, Seoul, Korea
-      year: 2015
-    - title: Research Assistant
-      institution: Bank of Korea, Seoul, Korea
-      year: 2014
-    - title: HR Specialist
-      institution: Defense Communications Command, 51st Battalion, Republic of Korea Army, Wonju, Korea
-      year: 2011 -- 2013
+# - title: Professional Experience
+#   type: time_table
+#   contents:
+#     - title: Summer Intern
+#       institution: DGB Life Insurance, Seoul, Korea
+#       year: 2015
+#     - title: Research Assistant
+#       institution: Bank of Korea, Seoul, Korea
+#       year: 2014
+#     - title: HR Specialist
+#       institution: Defense Communications Command, 51st Battalion, Republic of Korea Army, Wonju, Korea
+#       year: 2011 -- 2013
 
-- title: Other Information
-  type: map
-  contents:
-    - name: Citizenship
-      value: United States and Korea
-    - name: Languages
-      value: R, SAS, LATEX, English (fluent), Korean (native), Spanish (beginner)
-    - name: CRMO Warrior
-      value: Battling Chronic Recurrent Multifocal Osteomyelitis (CRMO), an extremely rare condition (1 in a million) with no current cure
-    - name: Hobbies
-      value: Horseback riding, Running (10 miles: 1h 29m 39s; 10k: 48m 57s)
+# - title: Other Information
+#   type: map
+#   contents:
+#     - name: Citizenship
+#       value: United States and Korea
+#     - name: Languages
+#       value: R, SAS, LATEX, English (fluent), Korean (native), Spanish (beginner)
+#     - name: CRMO Warrior
+#       value: Battling Chronic Recurrent Multifocal Osteomyelitis (CRMO), an extremely rare condition (1 in a million) with no current cure
+#     - name: Hobbies
+#       value: Horseback riding, Running (10 miles: 1h 29m 39s; 10k: 48m 57s)
 
-- title: References
-  type: list
-  contents:
-    - name: Sugata Roychowdhury
-      title: Committee Chair
-      institution: Kellogg School of Management, Northwestern University
-      email: sugata.roychowdhury@kellogg.northwestern.edu
-    - name: Ronald A. Dye
-      title: Committee Member
-      institution: Kellogg School of Management, Northwestern University
-      email: rdye@kellogg.northwestern.edu
-    - name: Jung Min Kim
-      title: Committee Member
-      institution: Kellogg School of Management, Northwestern University
-      email: jungmin.kim@kellogg.northwestern.edu
-    - name: Mihir N. Mehta
-      title: Committee Member
-      institution: Ross School of Business, University of Michigan
-      email: mnmehta@umich.edu
+# - title: References
+#   type: list
+#   contents:
+#     - name: Sugata Roychowdhury
+#       title: Committee Chair
+#       institution: Kellogg School of Management, Northwestern University
+#       email: sugata.roychowdhury@kellogg.northwestern.edu
+#     - name: Ronald A. Dye
+#       title: Committee Member
+#       institution: Kellogg School of Management, Northwestern University
+#       email: rdye@kellogg.northwestern.edu
+#     - name: Jung Min Kim
+#       title: Committee Member
+#       institution: Kellogg School of Management, Northwestern University
+#       email: jungmin.kim@kellogg.northwestern.edu
+#     - name: Mihir N. Mehta
+#       title: Committee Member
+#       institution: Ross School of Business, University of Michigan
+#       email: mnmehta@umich.edu
