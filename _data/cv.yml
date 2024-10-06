@@ -8,7 +8,7 @@
     - name: Email
       value: sangwook.nam@kellogg.northwestern.edu
     - name: Office Address
-      value: Northwestern University, 2211 Campus Dr. #Office 4480 Evanston, IL
+      value: Northwestern University, 2211 Campus Dr, Evanston, IL, 60201
 
 - title: Education
   type: time_table
@@ -37,18 +37,18 @@
     - title: Effects of Disclosure Mandates
     - title: Spillover Effects of Disclosure
 
-# - title: Working Paper
-#   type: time_table
-#   contents:
-#     - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocations?
-#       description: Job Market Paper
-#       presentations:
-#         - Kellogg Accounting Seminar Series
-#         - WashU Accounting Research Conference (poster session)
-#         - Boston Accounting Student Symposium
-#         - Hawaii Accounting Research Conference (scheduled)
-#         - Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled)
-#         - The Japanese Accounting Review Conference (scheduled)
+- title: Working Paper
+  type: time_table
+  contents:
+    - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocations?
+      description: Job Market Paper
+      presentations:
+        - Kellogg Accounting Seminar Series
+        - WashU Accounting Research Conference (poster session)
+        - Boston Accounting Student Symposium
+        - Hawaii Accounting Research Conference (scheduled)
+        - Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled)
+        - The Japanese Accounting Review Conference (scheduled)
 
 # - title: Work-in-Progress
 #   type: nested_list
