@@ -37,12 +37,12 @@
     - title: Effects of Disclosure Mandates
     - title: Spillover Effects of Disclosure
 
-- title: Working Paper
+- title: Job Market Paper
   type: time_table
   contents:
     - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocations?
       description:
-        - Job Market Paper
+        # - Job Market Paper
         - "Presentations: Kellogg Accounting Seminar Series, WashU Accounting Research Conference (poster session), Boston Accounting Student Symposium, Hawaii Accounting Research Conference (scheduled), Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled), The Japanese Accounting Review Conference (scheduled)"
 
 - title: Work-in-Progress
