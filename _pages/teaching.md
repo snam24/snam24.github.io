@@ -12,7 +12,7 @@ nav_order: 2
 Organize your courses by years, topics, or universities, however you like!
  -->
 
-## Kellogg School of Management, Northwestern University
+#### Kellogg School of Management, Northwestern University
 
 #### Teaching Assistant: Various Courses
   - **Fall 2021**: Managerial Accounting, EMBA – Sugata Roychowdhury
@@ -20,13 +20,14 @@ Organize your courses by years, topics, or universities, however you like!
   - **Fall 2020**: Financial Reporting, MBA – Sri Sridharan
   - **Summer 2020**: Financial Reporting, MBA – Sri Sridharan
 
-## Seoul National University
+
+#### Seoul National University
 
 #### Teaching Assistant
   - **Fall 2017**: Operations Management, Undergraduate - Michael K. Lim
 
 
-## Selected Testimonials
+#### Selected Testimonials
 
 > Sangwook was an incredible resource for this course. His recitations taught the material in a clear and concise manner that helped to further our understanding of the material we learned in the class room. No weaknesses.
 >
