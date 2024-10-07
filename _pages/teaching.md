@@ -36,3 +36,4 @@ Organize your courses by years, topics, or universities, however you like!
 > The primary strength of Sangwook is his ability to teach the concepts in a way that everyone can understand them, he is very organized and he tough [sic] the concepts in a clear and logical way. I was very happy to review his sessions, they were super helpful! He managed to explain tough concepts in a simple way.
 >
 > Very prepared, explained things well, receptive to our feedback and always trying to improve his delivery—he did a great job! Thank you!
+
