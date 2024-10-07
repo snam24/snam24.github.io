@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://snam24.github.io/sitemap.xml
+Sitemap: https://sangwook-nam.com/sitemap.xml
