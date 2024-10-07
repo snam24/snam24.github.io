@@ -137,17 +137,17 @@
 #       institution: Defense Communications Command, 51st Battalion, Republic of Korea Army, Wonju, Korea
 #       year: 2011 -- 2013
 
-- title: Other Information
-  type: map
-  contents:
-    - name: Citizenship
-      value: United States and Korea
-    - name: Languages
-      value: R, SAS, LATEX, English (fluent), Korean (native), Spanish (beginner)
-    - name: CRMO Warrior
-      value: Battling Chronic Recurrent Multifocal Osteomyelitis (CRMO), an extremely rare condition (1 in a million) with no current cure
-    - name: Hobbies
-      value: Horseback riding, Running (10 miles: 1h 29m 39s; 10k: 48m 57s)
+# - title: Other Information
+#   type: map
+#   contents:
+#     - name: Citizenship
+#       value: United States and Korea
+#     - name: Languages
+#       value: R, SAS, LATEX, English (fluent), Korean (native), Spanish (beginner)
+#     - name: CRMO Warrior
+#       value: Battling Chronic Recurrent Multifocal Osteomyelitis (CRMO), an extremely rare condition (1 in a million) with no current cure
+#     - name: Hobbies
+#       value: Horseback riding, Running (10 miles: 1h 29m 39s; 10k: 48m 57s)
 
 # - title: References
 #   type: list
