@@ -33,9 +33,9 @@
 - title: Research Interests
   type: nested_list
   contents:
+    - title: Spillover Effects of Disclosures
+    - title: Economic Consequences of Mandated Disclosures
     - title: Supply Chain
-    - title: Effects of Disclosure Mandates
-    - title: Spillover Effects of Disclosure
 
 - title: Job Market Paper # Working Paper
   type: time_table
