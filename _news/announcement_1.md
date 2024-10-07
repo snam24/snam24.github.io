@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm presenting my job market paper at the poster session at the 2024 <!-- [WashU Olin Accounting Research Conference](https://event.olin.wustl.edu/dopuch-accounting-conference)! -->
+I'm presenting my job market paper at the poster session at the 2024 [WashU Olin Accounting Research Conference](https://event.olin.wustl.edu/dopuch-accounting-conference)!

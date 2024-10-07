@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm presenting my job market paper at the 2024 <!-- [Boston Accounting Students Symposium](https://sites.google.com/view/bassconference/)! -->
+I'm presenting my job market paper at the 2024 [Boston Accounting Students Symposium](https://sites.google.com/view/bassconference/)!
