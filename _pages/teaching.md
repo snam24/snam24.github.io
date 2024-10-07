@@ -16,7 +16,7 @@ Organize your courses by years, topics, or universities, however you like!
   - **Fall 2021**: Managerial Accounting, EMBA – Sugata Roychowdhury
   - **Summer 2021**: Financial Reporting, MBA – Georg Rickmann (TA Rating: 5.54/6.00)
   - **Fall 2020**: Financial Reporting, MBA – Sri Sridharan
-  - **Summer 2020**: Financial Reporting, MBA – Sri Sridharan
+  - **Summer 2020**: Financial Reporting, MBA – Andy Leone and Sri Sridharan
 
 
 #### Seoul National University: Teaching Assistant
