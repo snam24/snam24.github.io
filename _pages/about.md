@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! I'm a PhD Candidate in Accounting Information and Management at Kellogg School of Management, Northwestern University. I will be on the 2024 -- 2025 academic job market.
 
-My research focuses on financial disclosure and reporting, exploring their spillover effects and economic consequences. I examine these topics in various contexts, including supply chain relationships and corporate investment decisions.
+My research focuses on financial disclosure and reporting, exploring their spillover effects and economic consequences. I examine these topics in such contexts as corporate investment decisions and supply chain relationships.
 
 Prior to Kellogg School of Management, I obtained my Bachelor’s degrees in Business Administration, Economics, and Statistics from Seoul National University, graduating Summa Cum Laude.
 
