@@ -15,7 +15,7 @@ I started running in 2022. I've run 5k, 10k, and 10-mile races, including Run Ma
 <!-- photo too big: ![]({{ "/assets/img/run_mag_mile.PNG" | relative_url }}){:style="margin:auto; display:block;"} -->
 
 #### Horseback riding
-I was a mamber of an equestrian club both at Northwestern University and Seoul National University. I went to Mongolia for a horseback riding trip.
+I was a member of an equestrian club at both Northwestern University and Seoul National University. I went to Mongolia for a horseback riding trip.
 
 ![]({{ "/assets/img/mongolia_riding.jpg" | relative_url }}){:style="width: 50%; margin:auto; display:block;"}
 

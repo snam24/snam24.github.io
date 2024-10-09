@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I'm presenting my job market paper at WashU Conference.
+I'm presenting my job market paper at WashU Conference (poster session).
 <!-- https://eaa-jobmarket.ie.edu/ -->
