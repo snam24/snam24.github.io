@@ -6,4 +6,5 @@ inline: true
 related_posts: false
 ---
 
-I'm presenting my job market paper at Boston Accounting Students Symposium ([BASS](https://sites.google.com/view/bassconference))
+I'm presenting my job market paper at Boston Accounting Students Symposium.
+<!-- [BASS](https://sites.google.com/view/bassconference) -->

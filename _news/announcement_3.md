@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I'm presenting my job market paper at EAA Talent Workshop.
+<!-- https://eaa-jobmarket.ie.edu/ -->
