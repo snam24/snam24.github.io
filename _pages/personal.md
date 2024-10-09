@@ -23,4 +23,4 @@ I was a mamber of an equestrian club both at Northwestern University and Seoul N
 
 On August 31st, 2017, I was diagnosed with cancer. What began as a hospital visit for severe shoulder pain ended with a devastating diagnosis: osteosarcoma, a deadly cancerous bone tumor. For a terrifying long time, I was wrestling with some pretty heavy thoughts. Thankfully, it turned out to be a false alarm – not cancer, but an extremely rare condition called CRMO (1 out of a million).
 
-![]({{ "/assets/img/crmo_warrior.jpg" | relative_url }}){:style="width: 50%; margin:auto; display:block;"}
+![]({{ "/assets/img/crmo_warrior_sticker_blurred.jpg" | relative_url }}){:style="width: 50%; margin:auto; display:block;"}
