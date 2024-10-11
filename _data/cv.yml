@@ -44,15 +44,15 @@
       description:
         - "Presentations: Kellogg Accounting Seminar Series, WashU Accounting Research Conference (poster session), Boston Accounting Student Symposium, Hawaii Accounting Research Conference (scheduled), Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled), The Japanese Accounting Review Conference (scheduled)"
 
-# - title: Work in Progress
-#   type: time_table
-#   contents:
-#     - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
-#       description:
-#         - "co-author: Yongseok Kim"
-#     - title: Supply Chain and Alternative Data
-#       description:
-#         - "co-author: Shera Gong"
+- title: Work in Progress
+  type: time_table
+  contents:
+    - title: The Impact of Standardized Disclosure on Private Information Production: Evidence from Korean IPOs
+      description:
+        - "co-author: Yongseok Kim"
+    - title: Supply Chain and Alternative Data
+      description:
+        - "co-author: Shera Gong"
 
 - title: Research Conferences
   type: time_table
@@ -92,6 +92,7 @@
       description:
         - "Fall 2017: Operations Management, Undergraduate (Instructor: Michael K. Lim)"
 
+<<<<<<< HEAD
 - title: Service to the Profession
   type: time_table
   contents:
@@ -101,6 +102,17 @@
         - Hawaii Accounting Research Conference 2023
         - AAA Annual Meeting 2022
         - Financial Accounting and Reporting Section Midyear Meeting 2020
+=======
+# - title: Service to the Profession
+#   type: time_table
+#   contents:
+#     - title: Ad Hoc Referee
+#       events:
+#         - Hawaii Accounting Research Conference 2024
+#         - Hawaii Accounting Research Conference 2023
+#         - AAA Annual Meeting 2022
+#         - Financial Accounting and Reporting Section Midyear Meeting 2020
+>>>>>>> parent of 3d9487d (deleted wip and added service)
 
 # - title: Honors and Awards
 #   type: time_table
