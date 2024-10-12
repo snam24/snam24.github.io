@@ -92,7 +92,6 @@
       description:
         - "Fall 2017: Operations Management, Undergraduate (Instructor: Michael K. Lim)"
 
-<<<<<<< HEAD
 - title: Service to the Profession
   type: time_table
   contents:
@@ -102,7 +101,7 @@
         - Hawaii Accounting Research Conference 2023
         - AAA Annual Meeting 2022
         - Financial Accounting and Reporting Section Midyear Meeting 2020
-=======
+
 # - title: Service to the Profession
 #   type: time_table
 #   contents:
@@ -112,7 +111,6 @@
 #         - Hawaii Accounting Research Conference 2023
 #         - AAA Annual Meeting 2022
 #         - Financial Accounting and Reporting Section Midyear Meeting 2020
->>>>>>> parent of 3d9487d (deleted wip and added service)
 
 # - title: Honors and Awards
 #   type: time_table
