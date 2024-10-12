@@ -12,6 +12,10 @@
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
+    <!-- Google tag (gtag.js) -->
+      {% if site.google_analytics and jekyll.environment == 'production' %}
+      {% include analytics.html %}
+      {% endif %}
   </head>
 
   <!-- Body -->
