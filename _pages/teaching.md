@@ -12,16 +12,14 @@ nav_order: 3
 Organize your courses by years, topics, or universities, however you like!
  -->
 
-#### Kellogg School of Management, Northwestern University: Teaching Assistant
+#### Kellogg School of Management, Northwestern University: Teaching Assistant (TA Rating: 5.54/6.00)
   - **Fall 2021**: Managerial Accounting, EMBA – Sugata Roychowdhury
-  - **Summer 2021**: Financial Reporting, MBA – Georg Rickmann (TA Rating: 5.54/6.00)
+  - **Summer 2021**: Financial Reporting, MBA – Georg Rickmann
   - **Fall 2020**: Financial Reporting, MBA – Sri Sridharan
   - **Summer 2020**: Financial Reporting, MBA – Andy Leone and Sri Sridharan
 
-
 #### Seoul National University: Teaching Assistant
   - **Fall 2017**: Operations Management, Undergraduate – Michael K. Lim
-
 
 #### Selected Testimonials
 
