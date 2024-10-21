@@ -54,53 +54,53 @@
 #       description:
 #         - "co-author: Shera Gong"
 
-- title: Research Conferences
-  type: time_table
-  contents:
-    - year: 2024
-      items:
-        - Boston Accounting Students Symposium (Presenter)
-        - Washington University in St. Louis Annual Accounting Research Conference (Poster Presenter)
-        - AAA Annual Meeting
-        - Kellogg Accounting Conference
-    - year: 2023
-      items:
-        - Kellogg Accounting Conference
-    - year: 2021
-      items:
-        - AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium (Presenter)
-        - AAA Annual Meeting
-        - McGill Accounting Research Conference
-        - Government and Nonprofit Section Midyear Meeting
-        - FARS Doctoral Consortium
-        - Accounting and Economics Society Summer School
+# - title: Research Conferences
+#   type: time_table
+#   contents:
+#     - year: 2024
+#       items:
+#         - Boston Accounting Students Symposium (Presenter)
+#         - Washington University in St. Louis Annual Accounting Research Conference (Poster Presenter)
+#         - AAA Annual Meeting
+#         - Kellogg Accounting Conference
+#     - year: 2023
+#       items:
+#         - Kellogg Accounting Conference
+#     - year: 2021
+#       items:
+#         - AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium (Presenter)
+#         - AAA Annual Meeting
+#         - McGill Accounting Research Conference
+#         - Government and Nonprofit Section Midyear Meeting
+#         - FARS Doctoral Consortium
+#         - Accounting and Economics Society Summer School
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant
-      institution: Northwestern University
-      year: 2020 -- 2021
-      description:
-        - "Fall 2021: Managerial Accounting, EMBA (Instructor: Sugata Roychowdhury)"
-        - "Summer 2021: Financial Reporting, MBA (Instructor: Georg Rickmann) – TA Rating: 5.54/6.00"
-        - "Fall 2020: Financial Reporting, MBA (Instructor: Sri Sridharan)"
-        - "Summer 2020: Financial Reporting, MBA (Instructor: Andy Leone and Sri Sridharan)"
-    - title: Teaching Assistant
-      institution: Seoul National University
-      year: 2017
-      description:
-        - "Fall 2017: Operations Management, Undergraduate (Instructor: Michael K. Lim)"
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistant
+#       institution: Northwestern University
+#       year: 2020 -- 2021
+#       description:
+#         - "Fall 2021: Managerial Accounting, EMBA (Instructor: Sugata Roychowdhury)"
+#         - "Summer 2021: Financial Reporting, MBA (Instructor: Georg Rickmann) – TA Rating: 5.54/6.00"
+#         - "Fall 2020: Financial Reporting, MBA (Instructor: Sri Sridharan)"
+#         - "Summer 2020: Financial Reporting, MBA (Instructor: Andy Leone and Sri Sridharan)"
+#     - title: Teaching Assistant
+#       institution: Seoul National University
+#       year: 2017
+#       description:
+#         - "Fall 2017: Operations Management, Undergraduate (Instructor: Michael K. Lim)"
 
-- title: Service to the Profession
-  type: time_table
-  contents:
-    - title: Ad Hoc Referee
-      description:
-        - Hawaii Accounting Research Conference 2024
-        - Hawaii Accounting Research Conference 2023
-        - AAA Annual Meeting 2022
-        - Financial Accounting and Reporting Section Midyear Meeting 2020
+# - title: Service to the Profession
+#   type: time_table
+#   contents:
+#     - title: Ad Hoc Referee
+#       description:
+#         - Hawaii Accounting Research Conference 2024
+#         - Hawaii Accounting Research Conference 2023
+#         - AAA Annual Meeting 2022
+#         - Financial Accounting and Reporting Section Midyear Meeting 2020
 
 # - title: Service to the Profession
 #   type: time_table
