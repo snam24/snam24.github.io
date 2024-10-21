@@ -1,48 +1,48 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Sangwook Nam
-    - name: Website
-      value: https://sangwook-nam.com/
-    - name: Email
-      value: sangwook.nam@kellogg.northwestern.edu
-    - name: Office Address
-      value: Northwestern University, 2211 Campus Dr, Evanston, IL, 60201
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Sangwook Nam
+#     - name: Website
+#       value: https://sangwook-nam.com/
+#     - name: Email
+#       value: sangwook.nam@kellogg.northwestern.edu
+#     - name: Office Address
+#       value: Northwestern University, 2211 Campus Dr, Evanston, IL, 60201
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Accounting Information & Management
-      institution: Kellogg School of Management, Northwestern University
-      year: 2025 (expected)
-      description:
-        - "Thesis Proposal: Do Customer Disclosures Affect Suppliers' Internal Capital Allocation Decisions?"
-        - "Committee: Sugata Roychowdhury (Chair), Ronald Dye, Jung Min Kim, Mihir Mehta"
-    - title: MS in Managerial Economics & Strategy
-      institution: Kellogg School of Management, Northwestern University
-      year: 2019
-      description:
-        - Passed PhD qualifiers for Microeconomics and Econometrics
-    - title: BBA, BA in Economics, BS in Statistics
-      institution: Seoul National University
-      year: 2017
-      description:
-        - Summa Cum Laude
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD in Accounting Information & Management
+#       institution: Kellogg School of Management, Northwestern University
+#       year: 2025 (expected)
+#       description:
+#         - "Thesis Proposal: Do Customer Disclosures Affect Suppliers' Internal Capital Allocation Decisions?"
+#         - "Committee: Sugata Roychowdhury (Chair), Ronald Dye, Jung Min Kim, Mihir Mehta"
+#     - title: MS in Managerial Economics & Strategy
+#       institution: Kellogg School of Management, Northwestern University
+#       year: 2019
+#       description:
+#         - Passed PhD qualifiers for Microeconomics and Econometrics
+#     - title: BBA, BA in Economics, BS in Statistics
+#       institution: Seoul National University
+#       year: 2017
+#       description:
+#         - Summa Cum Laude
 
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Spillover Effects of Disclosures
-    - title: Economic Consequences of Mandated Disclosures
-    - title: Supply Chain
+# - title: Research Interests
+#   type: nested_list
+#   contents:
+#     - title: Spillover Effects of Disclosures
+#     - title: Economic Consequences of Mandated Disclosures
+#     - title: Supply Chain
 
-- title: Job Market Paper # Working Paper
-  type: time_table
-  contents:
-    - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocation Decisions?
-      description:
-        - "Presentations: Kellogg Accounting Seminar Series, WashU Accounting Research Conference (poster session), Boston Accounting Student Symposium, Hawaii Accounting Research Conference (scheduled), Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled), The Japanese Accounting Review Conference (scheduled)"
+# - title: Job Market Paper # Working Paper
+#   type: time_table
+#   contents:
+#     - title: Do Customer Disclosures Affect Suppliers' Internal Capital Allocation Decisions?
+#       description:
+#         - "Presentations: Kellogg Accounting Seminar Series, WashU Accounting Research Conference (poster session), Boston Accounting Student Symposium, Hawaii Accounting Research Conference (scheduled), Korean American Accounting Professors Association (KAAPA) Ph.D. Conference (scheduled), The Japanese Accounting Review Conference (scheduled)"
 
 # - title: Work in Progress
 #   type: time_table
