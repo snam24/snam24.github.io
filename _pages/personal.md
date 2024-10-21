@@ -14,10 +14,17 @@ I took up running in 2022. I've participated in 5k, 10k, and 10-mile races, incl
 
 <!-- photo too big: ![]({{ "/assets/img/run_mag_mile.PNG" | relative_url }}){:style="margin:auto; display:block;"} -->
 
-#### Horseback riding
+#### Horseback Riding
 I was a member of equestrian clubs at both Northwestern University and Seoul National University. I event went on a horseback riding trip in Mongolia.
 
 ![]({{ "/assets/img/mongolia_riding.jpg" | relative_url }}){:style="width: 50%; margin:auto; display:block;"}
+
+#### Little One
+My department warmly celebrated the arrival of our little one.
+![]({{ "/assets/img/evan_kellogg.jpg" | relative_url }}){:style="width: 80%; margin:auto; display:block;"}
+
+He's now grown enough to start daycare recently to be a member of society.
+![]({{ "/assets/img/evan_ymca_2024-10-18.jpg" | relative_url }}){:style="width: 50%; margin:auto; display:block;"}
 
 #### CRMO: Chronic Recurrent Multifocal Osteomyelitis
 
