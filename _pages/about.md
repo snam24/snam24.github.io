@@ -24,7 +24,7 @@ My research focuses on financial disclosure and reporting, exploring their spill
 
 Prior to Kellogg School of Management, I obtained my Bachelor’s degrees in Business Administration, Economics, and Statistics from Seoul National University, graduating Summa Cum Laude.
 
-Outside of academia, I enjoy running and have experience horseback riding in Chicago, Seoul, and Mongolia. I also live with Chronic Recurrent Multifocal Osteomyelitis (CRMO), an extremely rare condition affecting 1 in a million people.
+Outside of academia, I enjoy running and have experience horseback riding in Chicago, Seoul, and Mongolia. I also enjoy spending time with my wife and son.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
