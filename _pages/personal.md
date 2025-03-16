@@ -19,13 +19,13 @@ I was a member of equestrian clubs at both Northwestern University and Seoul Nat
 
 ![]({{ "/assets/img/mongolia_riding.jpg" | relative_url }}){:style="width: 50%; margin:auto; display:block;"}
 
-#### Little One
+<!-- #### Little One
 My department warmly celebrated the arrival of our little one.
 ![]({{ "/assets/img/evan_kellogg.jpg" | relative_url }}){:style="width: 80%; margin:auto; display:block;"}
 
 He's now grown enough to start daycare recently to be a member of society.
 ![]({{ "/assets/img/evan_ymca_2024-10-18.jpg" | relative_url }}){:style="width: 50%; margin:auto; display:block;"}
-
+ -->
 #### CRMO: Chronic Recurrent Multifocal Osteomyelitis
 
 On August 31st, 2017, I was diagnosed with cancer. What began as a hospital visit for severe shoulder pain ended with a devastating diagnosis: osteosarcoma, a deadly cancerous bone tumor. For a terrifyingly long time, I wrestled with some pretty heavy thoughts. Thankfully, it turned out to be a false alarm – not cancer, but an extremely rare condition called CRMO (affecting only 1 in a million people). For more information about CRMO, visit the [CRMO awareness website](http://crmoawareness.org/).
